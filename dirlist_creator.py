@@ -1,5 +1,6 @@
 #!python3
 
+# описатель структуры папок в json формат
 # https://gist.github.com/prabindh/35dfb54249a0b5cfc1550aa8c4bd72f1
 
 import os
